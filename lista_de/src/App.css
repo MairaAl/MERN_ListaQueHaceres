@@ -1,0 +1,24 @@
+.input-submit {
+  color: white;
+  background-color: blueviolet;
+  padding: 5px;
+}
+input {
+  padding: 5px;
+  margin: 2px;
+}
+.input-submit:hover {
+  color: blueviolet;
+  background-color: white;
+}
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+button {
+  background-color: aqua;
+  margin: 2px;
+  border: black 1px;
+}
